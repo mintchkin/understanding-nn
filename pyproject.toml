@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "understanding-nn"
 version = "0.1.0"
-description = ""
+description = "Rudamentary neural network implementations"
 authors = ["mintchkin <mintchkin.dobfner@gmail.com>"]
 
 [tool.poetry.dependencies]
